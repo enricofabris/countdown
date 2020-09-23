@@ -1,1 +1,3 @@
-#Countdown Clock
+# Countdown Clock
+
+> Customized countdown clock
