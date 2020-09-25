@@ -2,7 +2,7 @@
 
 > Customized countdown clock
 
----
+
 
 ### Insert your customized data and click the SET YOUR DATE button to start the countdown ###
 ![](countdown.JPG)
@@ -18,3 +18,5 @@
  
  ### When the deadline expires a text will be display###
  ![](countdown3.JPG)
+---
+
