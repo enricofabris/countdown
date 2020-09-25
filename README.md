@@ -14,7 +14,7 @@
 - If input year is an year from the past an alert will remind you to set current year or future years
 - If input date is already expired an alert will remind you to set the input correctly
  
- ### Once input are set and countdown has started it will be displayed on the right ###
+ ### Once inputs are set and countdown has started, it will be displayed on the right ###
  ![](cd3.JPG)
  
  ### When the deadline expires a text will be display
