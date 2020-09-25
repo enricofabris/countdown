@@ -16,7 +16,7 @@
  ### Once input are set and countdown has started it will be displayed on the right ###
  ![](countdown2.JPG)
  
- ### When the deadline expires a text will be display###
+ ### When the deadline expires a text will be display
  ![](countdown3.JPG)
 ---
 
